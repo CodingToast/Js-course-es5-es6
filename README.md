@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hiskio Big Boy JS 課程 - 網頁 UI 練習
 
 ---
@@ -19,3 +20,7 @@ ES6 - 改用現代 ES6 語法， 模組化 JS
 [] 表單驗證
 
 ![Screenshot](https://github.com/kuanhsuh/bbcc-js-course-es5-es6/blob/master/screenshot.png)
+=======
+# GitHubRepositorySample_20200404
+Repository Pratice
+>>>>>>> 2d8d2b430ccc9b6386ed96ef6ff05c7b74a8af45
